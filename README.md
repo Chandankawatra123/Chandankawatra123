@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Kawatra</h1>
 <h3 align="center">An Undergraduate from India</h3>
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=chandankawatra123&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)" alt="CODING" /> </p>
+<p align="right"> <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="CODING" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankawatra123&label=Profile%20views&color=0e75b6&style=flat" alt="chandankawatra123" /> </p>
