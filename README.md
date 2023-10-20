@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankawatra123&label=Profile%20views&color=0e75b6&style=flat" alt="chandankawatra123" /> </p>
 
-<h1 align="left" color="red">About-me</h1>
+<h1 align="left" color="red">About-me 🧑🏻‍💻</h1>
 
 - 🌱 I’m currently learning **Node.js**
 
