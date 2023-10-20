@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankawatra123&label=Profile%20views&color=0e75b6&style=flat" alt="chandankawatra123" /> </p>
 
+<h1 align="left" color="red">About-me</h1>
+
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Dsa**
@@ -11,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chandan-kawatra-24b93b231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kawatra-24b93b231" height="30" width="40" /></a>
 <a href="https://instagram.com/chandan_.123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan_.123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/chandankawatra123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chandankawatra123/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chandankawatra123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandankawatra123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
